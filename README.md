@@ -27,3 +27,9 @@ Sure the worker can always laze around and do a shit, but this is like buying a 
 Let’s democratize access to capital at an individual level and improve the capital efficiency while promoting happier talented workers around the world!
 
 <img src="./imgResources/v1-architechture.png" alt="v1-architecture">
+
+---
+
+## Project Goal
+
+This aims to be public-infrastructure to decentralize investment on income sources.
