@@ -21,4 +21,4 @@
 //         counter.setNumber(x);
 //         assertEq(counter.number(), x);
 //     }
-// }
+// } todo TEST ALL XD

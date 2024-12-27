@@ -74,6 +74,10 @@ contract IncomeSourceSender is IIncomeSourceSender, Ownable2Step {
             balannceSafetyCheckAfter == balanceSafetyCheck + amountToDistribute,
             "IncomeSourceSender: unexpected amount of income received"
         );
+
+        // update reward per share on vault
+        s_incomeVault.distributeDividend(amountToDistribute);
+
         emit IncomeSourceSender__IncomeDistributed(payMode, _amount, s_incomeReceiver);
     }
 
