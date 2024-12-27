@@ -41,7 +41,7 @@ Like buying stock in a company, you’re investing in someone’s potential. Sur
 
 Imagine a world where talented individuals can focus on their craft, free from financial strain, and investors earn returns by supporting meaningful work. That’s the future Only Investors aims to create: **happier, more relaxed, and more productive workers delivering better results.**  
 
-<img src="./imgResources/v1-architechture.png" alt="v1-architecture">
+<img src="./imgResources/v1-Architechture.png" alt="v1-architecture">
 
 See more technical details in the [Developer Docs](./developerDocs/README.md).
 
