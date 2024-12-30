@@ -53,4 +53,9 @@ To establish a decentralized public infrastructure for investing in income sourc
 
 ---
 
-Join us in shaping a fairer, more collaborative future for talent and investment!  
+Join us in shaping a fairer, more collaborative future for talent and investment!
+
+## Other implementations
+
+- Solana version: [OnlyInvestors-Solana](https://github.com/CarlosAlegreUr/OnlyInvestors-Solana)
+- Starknet version: [OnlyInvestors-Starknet](https://github.com/CarlosAlegreUr/OnlyInvestors-Starknet)
