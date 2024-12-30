@@ -1,35 +1,61 @@
-# Only-Investors 🧑‍🦲📈💰
-### Fostering talent.
+# Only-Investors 🧑‍🦲📈💰  
+### Fostering Talent
 
 <img src="./imgResources/logo.webp" alt="only-investors-logo" width="150">
 
 ---
 
-Because **financial stability** allows you to plan a **better future**. Here I present:
+## Because Financial Stability Builds a Better Future  
 
-Only Investors
-(Motto: Fostering talent)
+Welcome to **Only Investors**, a platform designed to enable investments in **people as income sources**.  
 
-A platform to invest on People (generally, income sources).
+Our Motto: *Fostering Talent.*  
 
-This is how it works, simple, powerful, beautiful:
+### How It Works  
 
-1.- Some worker (let’s say a smart contract auditor) creates its own rewards token.
+Only Investors provides a simple, powerful, and beautiful way to invest in individual talent and earn from their success:  
 
-2.- You as an investor can buy that token. (the worker gets some income, the worker sets the price)
+1. **The Worker Creates Tokens**:  
+   - A worker (e.g., a smart contract auditor) issues their own **reward tokens** to represent a share of their future income.  
 
-3.- You will get X% of the worker’s future income which will be distributed to reward token holders. (auditors usually receive their payouts at a certain address, the address can perfectly be a smart contract that redirects X% of the funds to investors to assure payouts)
+2. **Investors Buy Tokens**:  
+   - As an investor, you can purchase these tokens, providing the worker with upfront income to enhance their capabilities and opportunities.  
 
-Workers will set the conditions of profitability of their future work, and if you deem them nice, just buy the tokens, get your share and wait until your investment yields profit. In the meanwhile, the worker will have more capital to invest on himself, his work and overall leading to a more thoughtful and cared product created by a relaxed and stable worker.
-
-Sure the worker can always laze around and do a shit, but this is like buying a stock, giving money to the company in expect of future returns, the company can just do shit too.
-
-Let’s democratize access to capital at an individual level and improve the capital efficiency while promoting happier talented workers around the world!
-
-<img src="./imgResources/v1-architechture.png" alt="v1-architecture">
+3. **Shared Earnings**:  
+   - Token holders receive a percentage (**X%**) of the worker’s future income. For example, payouts directed to the worker's address can automatically route a portion of the funds to token holders via a smart contract, ensuring transparency and accountability.  
 
 ---
 
-## Project Goal
+### Why It Matters  
 
-This aims to be public-infrastructure to decentralize investment on income sources.
+Workers define their own terms, and you decide whether to invest based on their proposed profitability and potential. Here’s why this model benefits everyone:  
+
+- **For Investors**: Gain a stake in someone’s future success, diversifying your portfolio with income-based assets.  
+- **For Workers**: Secure the financial stability to invest in themselves, creating better products and opportunities without the pressure of immediate returns.  
+
+Like buying stock in a company, you’re investing in someone’s potential. Sure, there’s risk—people, like companies, might not perform as expected. But with this model, we democratize access to capital at an individual level, improve efficiency, and create opportunities for talented workers worldwide.  
+
+---
+
+### Vision: A More Thoughtful World  
+
+Imagine a world where talented individuals can focus on their craft, free from financial strain, and investors earn returns by supporting meaningful work. That’s the future Only Investors aims to create: **happier, more relaxed, and more productive workers delivering better results.**  
+
+<img src="./imgResources/v1-Architechture.png" alt="v1-architecture">
+
+See more technical details in the [Developer Docs](./developerDocs/README.md).
+
+---
+
+## Project Goal  
+
+To establish a decentralized public infrastructure for investing in income sources, empowering individuals, and optimizing capital efficiency.  
+
+---
+
+Join us in shaping a fairer, more collaborative future for talent and investment!
+
+## Other implementations
+
+- Solana version: [OnlyInvestors-Solana](https://github.com/CarlosAlegreUr/OnlyInvestors-Solana)
+- Starknet version: [OnlyInvestors-Starknet](https://github.com/CarlosAlegreUr/OnlyInvestors-Starknet)
